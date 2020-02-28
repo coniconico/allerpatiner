@@ -20,7 +20,7 @@ const chercherResultats = chercherTexte => {
 
 
         //on recup et on analyse le fichier xml
-        fetch('https//www2.ville.montreal.qc.ca/services_citoyens/pdf_transfert/L29_PATINOIRE.xml')
+        fetch('https://crossorigin.me/http//www2.ville.montreal.qc.ca/services_citoyens/pdf_transfert/L29_PATINOIRE.xml')
             .then(response => response.text())
             .then(function (data) {
                 let parser = new DOMParser();

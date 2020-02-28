@@ -83,6 +83,7 @@ body {
   line-height: 2em;
   width: 100%;
   text-align: center;
+  border: none;
 }
 
 .champ-recherche ::-webkit-input-placeholder {

@@ -40,6 +40,10 @@ const chercherResultats = chercherTexte => {
 
                 let resurface = xmlPatinoires.getElementsByTagName('resurface');
 
+                let date = xmlPatinoires.getElementsByTagName('date_maj');
+
+                
+
                 //loop de la longueur du nombre de patinoires
                 for (i = 0; i < nomsPatinoire.length; i++) {
 
@@ -47,6 +51,8 @@ const chercherResultats = chercherTexte => {
                     let nomPatinoire = nomsPatinoire[i].textContent;
                     //stocke la condition de la patinoire
                     let  conditionPatinoire = condition[i].textContent;
+                    //stocke la date de mise a jour de la patinoire
+                    let dateMaj = date[i].textContent;
 
                     // ouverte ? vrai ou faux
                     let patinoireOuverte = ouvert[i].textContent;
@@ -113,8 +119,8 @@ const chercherResultats = chercherTexte => {
                     </p>
                 </p>
                 <p id="date-maj">
-                    Date de Mise a Jour : <br>
-                    2020-02-20 
+                    Dernière Mise à Jour : <br>
+                    ${dateMaj} 
                 </p>    
             </div>
                          

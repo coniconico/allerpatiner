@@ -88,6 +88,7 @@ const chercherResultats = chercherTexte => {
 
                         //h1 pour le nom 
                         let h1 = document.createElement('h1');
+                        h1.setAttribute('class', 'nom');
                         h1.innerHTML = `${nomPatinoire}`;
 
                         //une div pour l'etat 

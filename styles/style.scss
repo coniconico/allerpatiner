@@ -112,7 +112,7 @@ li {
     flex-direction: column;  
     align-items: center;
     padding: 2em 2em;
-    h1 {
+    h1.nom {
         font-size: 1.2em;
         text-transform: uppercase;
         font-weight: 600;
@@ -192,3 +192,27 @@ footer a {
     padding-bottom: 1em;
 }
 
+
+// ajustement version telephone
+
+@media only screen and (max-width: 400px) {
+    h1 {
+        font-size: 2.2em !important;
+    }
+    h2 {
+        font-size: 1.1em!important;
+    }
+    .header {
+        height: 20vh;
+    }
+    .champ-recherche label {
+        font-size: 1.2em;
+    }
+    label::before {
+        height: 0.9em !important;
+    }
+    h1.nom {
+        font-size: 1em !important;
+    }
+
+}

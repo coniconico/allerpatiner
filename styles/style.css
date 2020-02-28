@@ -142,7 +142,7 @@ li {
   padding: 2em 2em;
 }
 
-#resultats h1, .patinoire h1 {
+#resultats h1.nom, .patinoire h1.nom {
   font-size: 1.2em;
   text-transform: uppercase;
   font-weight: 600;
@@ -240,5 +240,26 @@ footer a {
   width: 2em;
   height: 2em;
   padding-bottom: 1em;
+}
+
+@media only screen and (max-width: 400px) {
+  h1 {
+    font-size: 2.2em !important;
+  }
+  h2 {
+    font-size: 1.1em !important;
+  }
+  .header {
+    height: 20vh;
+  }
+  .champ-recherche label {
+    font-size: 1.2em;
+  }
+  label::before {
+    height: 0.9em !important;
+  }
+  h1.nom {
+    font-size: 1em !important;
+  }
 }
 /*# sourceMappingURL=style.css.map */

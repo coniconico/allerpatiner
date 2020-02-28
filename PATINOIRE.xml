@@ -1,0 +1,3227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<patinoires>
+    <patinoire>
+        <nom>Aire de patinage libre, Georges-Saint-Pierre (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Aire de patinage libre, Gilbert-Layton (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Aire de patinage libre, Jean-Brillant (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Aire de patinage libre, MacDonald (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Aire de patinage libre, Mackenzie-King (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Aire de patinage libre, Martin-Luther-King (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Aire de patinage libre, Notre-Dame-de-Grâce (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Aire de patinage libre, William-Hurst (PP)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau à patiner  du parc Hayward (PPL)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau à patiner du parc Ouellette (PPL)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau à patiner du parc Raymond (PPL)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau à patiner du parc Riverside (PPL)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau de glace, C.C.S.L. (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2020-02-20 10:58:58</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau de glace, Parc Eugène-Dostie (PPL)</nom>
+        <arrondissement>
+            <nom_arr>L'Île-Bizard - Sainte-Geneviève</nom_arr>
+            <cle>ibi</cle>
+            <date_maj>2020-02-20 14:28:34</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>0</deblaye>
+        <arrose>1</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau de glace, Parc Lucie-Bruneau (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Anjou</nom_arr>
+            <cle>anj</cle>
+            <date_maj>2020-02-24 14:47:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Anneau de glace, Parc Talcy (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Anjou</nom_arr>
+            <cle>anj</cle>
+            <date_maj>2020-02-24 14:47:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Carré de glace, Parc Eugène-Dostie (PPL)</nom>
+        <arrondissement>
+            <nom_arr>L'Île-Bizard - Sainte-Geneviève</nom_arr>
+            <cle>ibi</cle>
+            <date_maj>2020-02-20 14:28:34</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>0</deblaye>
+        <arrose>1</arrose>
+        <resurface>0</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Grande patinoire avec bandes, La Fontaine (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Grande patinoire de hockey, Parc Beaubien (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Outremont</nom_arr>
+            <cle>out</cle>
+            <date_maj>2020-02-24 15:36:47</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Pat. avec bandes - près chalet, parc LaSalle (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Pat. avec bandes - près 10e Avenue, Parc LaSalle (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire # 1 , Parc Eugène-Dostie (PSE)</nom>
+        <arrondissement>
+            <nom_arr>L'Île-Bizard - Sainte-Geneviève</nom_arr>
+            <cle>ibi</cle>
+            <date_maj>2020-02-20 14:28:34</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>0</deblaye>
+        <arrose>1</arrose>
+        <resurface>0</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire # 1, Parc Joseph-Avila-Proulx (PSE)</nom>
+        <arrondissement>
+            <nom_arr>L'Île-Bizard - Sainte-Geneviève</nom_arr>
+            <cle>ibi</cle>
+            <date_maj>2020-02-20 14:28:34</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>0</deblaye>
+        <arrose></arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire # 1, Parc Robert-Sauvé (PSE)</nom>
+        <arrondissement>
+            <nom_arr>L'Île-Bizard - Sainte-Geneviève</nom_arr>
+            <cle>ibi</cle>
+            <date_maj>2020-02-20 14:28:34</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>0</deblaye>
+        <arrose>1</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire # 2 , Parc Eugène-Dostie (PSE)</nom>
+        <arrondissement>
+            <nom_arr>L'Île-Bizard - Sainte-Geneviève</nom_arr>
+            <cle>ibi</cle>
+            <date_maj>2020-02-20 14:28:34</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>0</deblaye>
+        <arrose>1</arrose>
+        <resurface>0</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire à bandes, Liébert (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire à bandes, Parc Beurling (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire à bandes, Parc de la Fontaine (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire à bandes, Parc Elgar (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire à bandes, Reine-Elisabeth (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bande, Parc Grier (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes , Mackenzie-King (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes - Nord, parc Villeray (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes - Sud, parc Villeray (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes , Trenholme (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Baldwin (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Berthe-Louard (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Campbell-Ouest (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Carré Hibernia (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, C-de-la-Rousselière (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Cité-Jardin (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Daniel-Johnson (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, De Gaspé (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, De La Bruère (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, De la Vérendrye (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, de Mésy (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Des Vétérans (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Don-Bosco (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes du parc Charleroi (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Montréal-Nord</nom_arr>
+            <cle>mno</cle>
+            <date_maj>2020-02-24 15:04:31</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes du parc Oscar (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Montréal-Nord</nom_arr>
+            <cle>mno</cle>
+            <date_maj>2020-02-24 15:04:31</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes du parc Sauvé (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Montréal-Nord</nom_arr>
+            <cle>mno</cle>
+            <date_maj>2020-02-24 15:04:31</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Du Pélican (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Georges-Saint-Pierre (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, George-Vernot (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Henri-Julien (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Ignace-Bourget (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Jean-Amyot (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Jean-Brillant (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Jeanne-Mance (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Lafond (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Lalancette (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Le Ber (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Le Prévost (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, MacDonald (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Martin-Luther-King (nord) (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Martin-Luther-King (sud) (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes Nord, Beaubien (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes nord, Jarry (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes Nord, Parc de Roxboro (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Notre-Dame-de-Grâce (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Alexander (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Brook (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Carignan (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc d'À-Ma-Baie (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc de la Rive-Boisée (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Delorme (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2020-02-20 10:58:58</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Des Roseraies (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Anjou</nom_arr>
+            <cle>anj</cle>
+            <date_maj>2020-02-24 14:47:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Dixie (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Duff court (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Ferland (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2020-02-20 10:58:58</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Gérard-Vaillancourt (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Hans-Selye (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Jeanne-Lapierre (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Kirkland (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Ladauversière (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2020-02-20 10:58:58</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Lucie-Bruneau (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Anjou</nom_arr>
+            <cle>anj</cle>
+            <date_maj>2020-02-24 14:47:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, parc Pie-XII (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2020-02-20 10:58:58</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Roger Rousseau (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Anjou</nom_arr>
+            <cle>anj</cle>
+            <date_maj>2020-02-24 14:47:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Spalding (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Anjou</nom_arr>
+            <cle>anj</cle>
+            <date_maj>2020-02-24 14:47:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Parc Talcy (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Anjou</nom_arr>
+            <cle>anj</cle>
+            <date_maj>2020-02-24 14:47:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Pehr-Kalm (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Père-Marquette (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Pierre-Bédard (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Polyvalente Saint-Henri (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes pour enfants, C.C.S.L. (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2020-02-20 10:58:58</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Saint-Aloysius (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Saint-Alphonse (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Saint-André-Apôtre (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Sainte-Maria-Goretti (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Saint-Jean-Baptiste (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Saint-Paul-de-la-Croix (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Saint-Victor (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Sault-au-Récollet (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Sir-Wilfrid-Laurier no 1 (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Sir-Wilfrid-Laurier no 2 (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Sir-Wilfrid-Laurier no 3 (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, St-Valérien (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes Sud, Beaubien (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes sud, Jarry (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes Sud, Parc de Roxboro (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Thomas-Chapais (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Toussaint-Louverture (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Vinet (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, Walter-Stewart (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, William-Bowie (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire avec bandes, William-Hurst (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire Bleu, Blanc, Bouge du parc Le Carignan (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Montréal-Nord</nom_arr>
+            <cle>mno</cle>
+            <date_maj>2020-02-24 15:04:31</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire Bleu Blanc Bouge, Parc Willibrord (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Excellente</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire Bleu-Blanc-Bouge, Confédération (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2020-02-24 18:05:10</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire De Gaspé/Bernard (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de hockey et patin libre, Parc Pratt (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Outremont</nom_arr>
+            <cle>out</cle>
+            <date_maj>2020-02-24 15:36:47</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de hockey, Parc Oakwood (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Outremont</nom_arr>
+            <cle>out</cle>
+            <date_maj>2020-02-24 15:36:47</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Armand-Bombardier (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Baldwin (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Beaubien (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Beauclerk (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Berthe-Louard (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Camille (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, C-de-la-Rousselière (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, club pêcheurs/chasseurs (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, De Bordeaux (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, De la Louisiane (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, De Louisbourg (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, de Mésy (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Excellente</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Des Hirondelles (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Don-Bosco (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre du parc Le Carignan (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Montréal-Nord</nom_arr>
+            <cle>mno</cle>
+            <date_maj>2020-02-24 15:04:31</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre du parc Sauvé (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Montréal-Nord</nom_arr>
+            <cle>mno</cle>
+            <date_maj>2020-02-24 15:04:31</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Du Pélican (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre Est, Parc Brook (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, George-Vernot (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Gérard-Vaillancourt (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Jean-Amyot (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Jeanne-Mance (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Joseph-Paré (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Lafond (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Lalancette (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Le Ber (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Marie-Claire-Daveluy (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Nicolas-Viel (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre Ouest, Parc Brook (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, parc Carignan (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc d'À-Ma-Baie (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc de la Rive-Boisé (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc de Roxboro (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, parc Dixie (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc Grier (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc Jacques-Parizeau (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Outremont</nom_arr>
+            <cle>out</cle>
+            <date_maj>2020-02-24 15:36:47</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, parc Kirkland (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, parc LaSalle (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc Merci (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc Montmartre (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, parc Ovila-Légaré (PP)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, parc Rosewood (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2020-02-23 12:11:32</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Parc Saint-Viateur (PP)</nom>
+        <arrondissement>
+            <nom_arr>Outremont</nom_arr>
+            <cle>out</cle>
+            <date_maj>2020-02-24 15:36:47</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Père-Marquette (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Pierre-Bédard (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Pierre-Bernard (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Rougemont (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Saint-Aloysius (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Saint-Alphonse (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Saint-André-Apôtre (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Sainte-Maria-Goretti (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Saint-Jean-Baptiste (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Saint-Paul-de-la-Croix (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Saint-Simon-Apôtre (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Saint-Victor (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Sault-au-Récollet (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Sir-Wilfrid-Laurier (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre Sud, Parc Alexander (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Terrain de la mairie (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Pierrefonds - Roxboro</nom_arr>
+            <cle>pir</cle>
+            <date_maj>2020-02-23 13:11:24</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Théodore (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Mercier - Hochelaga-Maisonneuve</nom_arr>
+            <cle>mhm</cle>
+            <date_maj>2020-02-24 16:53:32</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Vinet (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Walter-Stewart (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire de patin libre, Y-Thériault/Sherbrooke (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Boyer (PP)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert>0</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Campbell-Ouest (PP)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Carré Hibernia (PP)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Daniel-Johnson (PP)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, De la Petite-Italie (PP)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, De Lorimier (PP)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, De Normanville (PP)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, François-Perrault (PP)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Howard (PP)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Jarry (PP)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, La Fontaine (PP)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Maison du citoyen (PP)</nom>
+        <arrondissement>
+            <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
+            <cle>rdp</cle>
+            <date_maj>2020-02-24 12:53:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Maisonneuve (PP)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Molson (PP)</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2020-02-24 00:05:01</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Oscar-Peterson (PP)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Parc Beurling (PP)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Parc de la Fontaine (PP)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Parc Duquette (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Parc Elgar (PP)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, parc Willibrord (PP)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire Décorative, Polyvalente Saint-Henri (PP)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Reine-Elisabeth (PP)</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2020-02-24 09:00:07</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>N/A</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire Décorative Sainte-Lucie (PP)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative, Sir-Georges-Étienne-Cartier (PP)</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2020-02-24 06:00:39</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire décorative Toussaint-Louverture (PP)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire du Glacis (PP)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire ext avec bandes (BBB) du parc Hayward (PSE)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire ext. avec bandes du parc Ouellette (PSE)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire ext. avec bandes du parc Raymond (PSE)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire ext. avec bandes du parc Riverside (PSE)</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2020-02-24 11:33:27</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose>0</arrose>
+        <resurface>1</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Cousineau (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Gohier (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Houde (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Marcel-Laurin (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Noël-Nord (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Painter (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Petit (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure , Parc Poirier (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure Domaine Chartier (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2020-02-20 10:58:58</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <arrose>1</arrose>
+        <resurface>1</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure, Lac du Bois-Franc (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure, Parc Beaulac (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure, Parc Chamberland (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure, Parc Decelles (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire extérieure, Parc Philippe-Laheurte (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire réfrigérée Bleu Blanc Bouge (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2020-02-24 06:29:09</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire réfrigérée, Lac aux Castors (PP)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Bonne</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patinoire sport d'équipe, Parc Decelle (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Patnoire à bandes, Parc Marcellin Wilson (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ahuntsic - Cartierville</nom_arr>
+            <cle>ahc</cle>
+            <date_maj>2020-02-24 08:57:16</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Petite patinoire avec bandes, La Fontaine (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2020-02-24 13:10:30</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Petite patinoire de hockey, Parc Beaubien (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Outremont</nom_arr>
+            <cle>out</cle>
+            <date_maj>2020-02-24 15:36:47</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Piste de curling, Parc Charles-S-Campbell (PSE)</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2020-02-24 05:14:14</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <arrose>0</arrose>
+        <resurface>0</resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace , Parc Beaulac (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace , Parc Chamberland (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace , Parc Cousineau (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace , Parc Houde (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace , Parc Noël-Nord (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace , Parc Painter (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace , Parc Petit (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace, Lac du Bois-Franc (PP)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace, Parc Gohier (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace, Parc Hartenstein (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Rond de glace, Parc Saint-Laurent (PPL)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+    <patinoire>
+        <nom>Sentier de glace, Parc Beaudet (PP)</nom>
+        <arrondissement>
+            <nom_arr>Saint-Laurent</nom_arr>
+            <cle>sla</cle>
+            <date_maj>2020-02-24 17:05:18</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <arrose></arrose>
+        <resurface></resurface>
+        <condition>Mauvaise</condition>
+    </patinoire>
+</patinoires>

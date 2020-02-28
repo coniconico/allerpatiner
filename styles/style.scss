@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:200,400,700,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+    
+body {
+    min-height: 100vh;
+    font-family: Raleway, sans-serif;
+    background: linear-gradient(#009D92, #0088FF);
+    color: white;
+    text-align: center;
+}
+
+//TITRE ALLER PATINER
+.header { 
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    h1 {
+        text-transform: uppercase;
+        font-weight: 900;
+        font-size: 3em;
+    }
+    h2  {
+        font-size: 1.5em;
+    }
+}
+
+//CHAMP DE RECHERCHE
+
+.champ-recherche {
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    label {
+        display: flex;
+        align-items: center;
+        font-size: 1.7em;
+        padding-bottom: 1rem;
+    }
+    label::before {
+        content: '';
+        background: url(../img/loupe.svg) no-repeat;
+        background-size: contain;
+        height: 1em;
+        width: 1em;
+    }
+    input {
+        display: block;
+        border-radius: 30px;
+        line-height: 2em;
+        width: 100%;
+        text-align: center;
+    }
+    ::placeholder {
+        text-align: center;
+    }
+}
+
+
+
+//Sections
+.bloc {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(255, 255, 255, 0.08));
+    padding: 1em 2em;
+    border-radius: 10px;
+    box-shadow:  20px 20px 60px #007cb19c, 
+         -20px -20px 60px #00a7efab;
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    h2 {
+        font-size: 1.3em;
+        font-weight: 200;
+        text-transform: uppercase;
+        padding-bottom: 0.3em;
+    }
+}
+li {
+    font-size: 1.2em;
+    line-height: 1.4em;
+    list-style: none;
+}
+
+
+//Section Liste des patinoires
+// .liste-patinoires {
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+//     padding: 2em 2em;
+//     p {
+//         font-size: 1.4em;
+//         padding-bottom: 1em;
+//     }
+// }
+
+
+//Section resulats 
+#resultats, .patinoire {
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    padding: 2em 2em;
+    h1 {
+        font-size: 1.2em;
+        text-transform: uppercase;
+        font-weight: 600;
+        padding-bottom: 0.5em;
+        padding-top: 1.4em;
+        z-index: 2;
+    }
+    h2 {
+        padding-bottom: 1em;
+    }
+    ul {
+        columns: 2;
+        li {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding-bottom: 0.5em;
+        }
+        li.true::after {
+            content: "";
+            display: block;
+            background-image: url(../img/ic_check.svg);
+            background-size: contain;
+            background-repeat: no-repeat;
+            height: 1em;
+            width: 1em;
+        }
+        li.false::after {
+            content: "";
+            display: block;
+            background-image: url(../img/ic_close.svg);
+            background-size: contain;
+            background-repeat: no-repeat;
+            height: 1em;
+            width: 1em;
+    }
+    }
+    p {
+        font-size: 1.2em;
+    }
+    .condition {
+        font-weight: bold;
+        font-size: 1.1em;
+        padding-bottom: 1em;
+        text-transform: uppercase;
+    }
+    #date-maj {
+        font-size: .9em;
+    }
+
+}
+
+//Bouton pour remonter
+.tothetop {
+    display: inline-block;
+    justify-content: flex-end;
+    align-content: flex-end;
+    content: '';
+    width: 2em;
+    height: 2em;
+    background: url('../img/ic_fleche.svg') no-repeat;
+    transform: rotate(-90deg);
+    color: white;
+    background-size: contain;
+}
+
+
+footer a { 
+    display: inline-block;
+    align-items: center;
+    content:"";
+    background: url(../img/home.svg) no-repeat;
+    background-size: contain;
+    width: 2em;
+    height: 2em;
+    padding-bottom: 1em;
+}
+

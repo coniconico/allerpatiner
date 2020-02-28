@@ -60,7 +60,7 @@ body {
         line-height: 2em;
         width: 100%;
         text-align: center;
-        border: none;
+        border: none; 
     }
     ::placeholder {
         text-align: center;
@@ -136,7 +136,7 @@ li {
         li.true::after {
             content: "";
             display: block;
-            background-image: url(../img/ic_check.svg);
+            background-image: url('../img/ic_check.svg');
             background-size: contain;
             background-repeat: no-repeat;
             height: 1em;
@@ -145,7 +145,7 @@ li {
         li.false::after {
             content: "";
             display: block;
-            background-image: url(../img/ic_close.svg);
+            background-image: url('../img/ic_close.svg');
             background-size: contain;
             background-repeat: no-repeat;
             height: 1em;
@@ -182,19 +182,7 @@ li {
 }
 
 
-footer a { 
-    display: inline-block;
-    align-items: center;
-    content:"";
-    background: url(../img/home.svg) no-repeat;
-    background-size: contain;
-    width: 2em;
-    height: 2em;
-    padding-bottom: 1em;
-}
-
-
-// ajustement version telephone
+// version telephone
 
 @media only screen and (max-width: 400px) {
     h1 {

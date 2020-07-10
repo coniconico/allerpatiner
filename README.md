@@ -8,4 +8,6 @@ The mentality was "find an idea and then learn the knowledge to build it" rather
 I ended up with something that work not perfectly and need a start over from zero with cleaner solutions, but I realised that I really enjoyed Javascript and now I'm sure that I want to master it more in order to continue my journey trough advanced Javascript and frameworks (Vue.js <3).
 
 
+https://coniconico.github.io/allerpatiner/
+
 

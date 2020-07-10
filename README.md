@@ -1,6 +1,6 @@
 # allerpatiner
-États des patinoires à Montréal
-Show skating rink conditions in Montréal
+États des patinoires à Montréal.
+Show skating rink conditions in Montréal.
 Use a public xml data file from the city of Montréal.
 
 This is my first project in Javascript ever ! 
